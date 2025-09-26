@@ -28,11 +28,28 @@ Este proyecto surge con el propósito de ofrecer **productos y juguetes saludabl
 ---
 
 ## 📌 Software Propuesto
+
 ### 🌐 Frontend
+- **Lenguajes:** HTML5, CSS3, JavaScript.  
+- **Framework de estilos:** TailwindCSS.  
+- **Objetivo:** Construir una interfaz sencilla, moderna y adaptable a diferentes dispositivos.  
+
 ### ⚙️ Backend
+- **Lenguaje:** JavaScript.  
+- **Entorno:** Node.js con Express.  
+- **Objetivo:** Manejar la lógica del negocio, API y conexión con la base de datos.  
+
 ### 🗄️ Base de Datos
+- **MySQL** (relacional, organizada en tablas).  
+- **Objetivo:** Gestionar inventario, clientes y pedidos de manera estructurada.  
+
 ### 💳 Servicios Extra
+- **Autenticación:** Sistema de login con sesiones o JWT.  
+- **Pagos:** Integración con plataformas como MercadoPago o PayPal.  
+- **Notificaciones:** Correos automáticos a clientes con Nodemailer.  
+
 ### ☁️ Infraestructura
+- **Frontend y Backend:** Despliegue en servicios como Vercel o Ra
 
 ---
 
