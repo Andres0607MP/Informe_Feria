@@ -35,3 +35,21 @@ Este proyecto surge con el propósito de ofrecer **productos y juguetes saludabl
 ### ☁️ Infraestructura
 
 ---
+
+## 📌 Hardware o IoT
+  
+### 🔹 Dispositivos en Almacén
+- **Sensores de temperatura y humedad** → Monitorean las condiciones de almacenamiento de los productos naturales.  
+- **Lectores RFID o códigos QR** → Agilizan el control de inventario y la trazabilidad de cada producto.  
+
+### 🔹 Integración Tecnológica
+- **Raspberry Pi** o **Arduino**, que recopila y procesa los datos.  
+- La información se envía a la **nube** mediante conexión WiFi o red local.  
+- El **sistema web** muestra en tiempo real el inventario y las condiciones de almacenamiento, generando alertas en caso de irregularidades.  
+
+### 🔹 Procesos Digitalizados con IoT
+
+- Control de caducidad → Los sensores y el sistema pueden alertar sobre lotes cercanos a vencimiento.
+- Optimización energética → Sensores de consumo eléctrico para reducir gastos en refrigeración
+
+---
