@@ -53,3 +53,29 @@ Este proyecto surge con el propósito de ofrecer **productos y juguetes saludabl
 - Optimización energética → Sensores de consumo eléctrico para reducir gastos en refrigeración
 
 ---
+
+
+###  Razones de la elección de herramientas y materiales
+
+1. **Salud y seguridad canina**  
+   - Uso de materiales no tóxicos y certificados para contacto seguro (ej. caucho natural, fibras vegetales, polímeros biodegradables).  
+   - Diseño ergonómico que favorece la limpieza dental y protege el hocico de lesiones.  
+
+2. **Sostenibilidad ambiental**  
+   - Implementación de materiales biodegradables y reciclados para reducir la huella ecológica.  
+   - Procesos de manufactura que utilizan tecnologías limpias como impresión 3D con biopolímeros o moldes reutilizables.  
+
+3. **Durabilidad y funcionalidad**  
+   - Herramientas que permiten resistencia mecánica adecuada al uso constante de los caninos.  
+   - Acabados diseñados para aumentar la vida útil del producto frente a la mordida y desgaste natural.  
+
+---
+
+## Beneficios esperados
+- Reducción de riesgos de intoxicación y lesiones en caninos.  
+- Mayor confianza por parte de los dueños al adquirir productos seguros.  
+- Contribución a la sostenibilidad ambiental mediante el uso de insumos amigables con el medio ambiente.  
+
+---
+
+🫠 MUCHAS GRACIAS 😱
